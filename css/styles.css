@@ -1,0 +1,15 @@
+body {
+  background-color: red;
+}
+
+div {
+  width: 100%;
+  color: white;
+  padding: 1em 0;
+  display: block;
+}
+
+div .phone, div .tablet, div .laptop, div .television {
+  display: block;
+}
+/*# sourceMappingURL=styles.css.map */
